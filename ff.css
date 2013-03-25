@@ -1,0 +1,12 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+	p { color: blue; }
+
+.post .soloPost .col-b p + p:first-line, .post .soloPost .col-b ul + p:first-line, .post .soloPost .col-b h2 + p:first-line, .post .soloPost .col-b blockquote + p:first-line, .post .soloPost .col-b blockquote p:first-line, .post .soloPost .col-b div + p:first-line, .post .soloPost .col-b .wp-caption p:first-line { font-weight: normal; }
+
+.post .soloPost .col-b p + p:first-letter, .post .soloPost .col-b ul + p:first-letter, .post .soloPost .col-b h2 + p:first-letter, .post .soloPost .col-b blockquote + p:first-letter, .post .soloPost .col-b blockquote p:first-letter, .post .soloPost .col-b div + p:first-letter, .post .soloPost .col-b .wp-caption p:first-letter { font-weight: normal; font-size:1.1em; margin: 0; float: none; }
+ 
+.post .soloPost .col-b p + p:first-line { font-weight: normal; }
+
+		

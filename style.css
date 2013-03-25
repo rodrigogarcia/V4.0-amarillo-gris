@@ -1,0 +1,16 @@
+/*
+Theme Name: 4.0 Amarillo gris
+Theme URI: http://rgarcia.cl
+Description: Simple----, tipografico y pensado para una facil lectura. Disenado por <a href="http://rgarcia.cl/">Rodrigo Garcia Rejas</a>)
+Version: 3.0 Amarillo gris
+Fecha: marzo 2010
+Author: Rodrigo Garcia Rejas
+Author URI: http://rgarcia.cl
+Tags: Minimo, simple, tipografico, 
+*/
+
+@import "style/css/reset.css";
+@import "style/css/grilla.css";
+@import "style/css/visual.css";
+@import "style/css/font-face.css";
+
